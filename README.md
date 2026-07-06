@@ -24,4 +24,4 @@ curl https://api.pruweba.com/attestations
 3. **Prove** — SHA-256 proof chain generated
 4. **Attest** — Immutable evidence record written
 
-Pruweba is the verification layer of MetaLoop. The engine is proprietary. The evidence is public.
+Pruweba is the verification layer of RPES. The engine is proprietary. The evidence is public.
